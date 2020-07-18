@@ -21,6 +21,25 @@ body {
     padding: 1rem;
 }
 
+.football-parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.football {
+    position: relative;
+    top: 0;
+    left 0;
+}
+
+.soldout {
+    position: absolute;
+    top: 0;
+    left: 2rem;
+    opacity: 0.75;
+}
+
 img {
     height: 14rem;
     width: 80%;
@@ -30,8 +49,10 @@ img {
     border-radius: 10px;
 }
 
+
 h2 {
     text-align: center;
+    font-family: 'Ranchers', cursive;
 }
 
 .descriptor{
