@@ -1,6 +1,6 @@
 # product-cards
 
-![image](https://baileygroupproject1.netlify.app/)
+![image](C:\Users\baile\Downloads\groupproject1)
 
 This is the first group project I worked on, with 3 other team members. We used HTML and CSS to create product cards for a store. Here, we display some different sports equipment for sale. 
 
